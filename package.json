@@ -1,7 +1,7 @@
 {
   "name": "gamesirl",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "expo-router/entry",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -15,7 +15,10 @@
     "react-native": "0.79.6",
     "react-dom": "19.0.0",
     "react-native-web": "^0.20.0",
-    "@expo/metro-runtime": "~5.0.4"
+    "@expo/metro-runtime": "~5.0.4",
+    "expo-location": "~18.1.6",
+    "expo-notifications": "~0.31.4",
+    "expo-router": "~5.1.5"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
