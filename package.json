@@ -18,7 +18,8 @@
     "@expo/metro-runtime": "~5.0.4",
     "expo-location": "~18.1.6",
     "expo-notifications": "~0.31.4",
-    "expo-router": "~5.1.5"
+    "expo-router": "~5.1.5",
+    "expo-dev-client": "~5.2.4"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
